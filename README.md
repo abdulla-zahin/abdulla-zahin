@@ -38,8 +38,6 @@ Hello, I'm **Abdulla Zahin**, a Strategic Systems Analyst with a Master's in Bus
 - NLP with Python (2024)  
 - Bloomberg Market Concept (2024)  
 
-## 📈 GitHub Stats
-![Abdulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullazahin&show_icons=true&theme=radical)
 
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/)  
