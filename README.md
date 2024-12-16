@@ -28,7 +28,7 @@ Hello, I'm **Abdulla Zahin**, a Strategic Systems Analyst with a Master's in Bus
 ## 🎓 Academic Background
 - **MSc Business Analytics**: Northumbria University, London  
   Coursework: Marketing Metrics, Business Intelligence, Leadership Development  
-- **BTech Mechanical Engineering**: Prist University, India  
+- **BTech Mechanical Engineering**: India  
   Coursework: Probability & Stats, Thermodynamics, Mechanics of Solids  
 
 ## 🏅 Certifications
