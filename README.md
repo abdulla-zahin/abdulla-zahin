@@ -44,14 +44,6 @@ And sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulla-zahin&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-zahin&layout=compact&theme=tokyonight)
-
----
-
 # 🚀 Highlights
 
 🔧 Reduced ERP data retrieval time **from 20 minutes to 5 seconds** through VBA automation.
