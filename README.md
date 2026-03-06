@@ -69,7 +69,7 @@ Northumbria University, United Kingdom
 AMPP Certified Coating Inspector – Level 2  
 AMPP Certified Coating Inspector – Level 1  
 Certified Scrum Product Owner  
-Diploma in Business Ethics & Corporate Social Responsibility
+Business Ethics & Corporate Social Responsibility
 
 ---
 
