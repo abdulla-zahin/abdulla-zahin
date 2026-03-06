@@ -1,47 +1,84 @@
-# Welcome to My GitHub 👨‍💻
+# Hey, I'm Abdulla 👋
 
-Hello, I'm **Abdulla Zahin**, a Strategic Systems Analyst with a Master's in Business Analytics. My expertise lies in optimizing ERP systems and leveraging data-driven strategies to enhance operational efficiency and customer satisfaction across aviation and automotive sectors.
+Mechanical Engineer ⚙️ | AMPP Certified Coating Inspector (Level 2) | Data & Systems Enthusiast
 
-## 🌟 About Me
-- 🔭 I’m currently working on: Developing innovative data solutions and preparing for opportunities in established companies.
-- 🌱 I’m currently learning: Advanced cloud solutions (AWS, Google Cloud) and enhancing my Tableau visualization skills.
-- 👯 I’m looking to collaborate on: Data visualization projects, process optimization tasks, and BI-driven decision-making tools.
-- 🤔 I’m looking for help with: Expanding my knowledge in big data processing and advanced analytics methodologies.
-- 💬 Ask me about: ERP/CRM integration, business process optimization, and data-driven problem-solving.
-- 📫 How to reach me: [abdullazahin31@gmail.com](mailto:abdullazahin31@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I reduced a 20-minute data retrieval process to 5 seconds by designing a custom VBA-powered library.
+I enjoy exploring how **engineering systems, infrastructure projects, and data-driven insights** come together to solve real-world problems.
 
-## 🔧 Skills & Tools
-- **Programming Languages:** Python, SQL, VBA  
-- **BI Tools:** Power BI, Tableau, SAS EG  
-- **Cloud Solutions:** AWS, Google Cloud  
-- **Data Analysis & Visualization:** Pandas, Numpy, MS Excel  
-- **Key Competencies:** Process Optimization, ERP/CRM Integration, Stakeholder Management, Quality Assurance, UAT  
-- **Soft Skills:** Leadership, Cross-Functional Collaboration, Stakeholder Engagement  
+My background spans **aviation maintenance, infrastructure project environments, business analytics, and process optimization**.
 
-## 🏆 Key Achievements
-- **ERP Optimization:** Reduced data retrieval times by 75% and increased operational efficiency by 25% through strategic automation and thoughtful process re-engineering.
-- **Client Relations:** Enhanced client retention by 10% for global leaders like Toyota and Volkswagen by crafting tailored ERP solutions.
-- **Strategic Projects:** Delivered recommendations for Airbus’s sustainability initiatives and led a team to identify Nokia’s operational gaps, achieving a 20% reduction in bottlenecks.
-
-## 🎓 Academic Background
-- **MSc Business Analytics**: Northumbria University, London  
-  Coursework: Marketing Metrics, Business Intelligence, Leadership Development  
-- **BTech Mechanical Engineering**: India  
-  Coursework: Probability & Stats, Thermodynamics, Mechanics of Solids  
-
-## 🏅 Certifications
-- Tableau Author (2023)  
-- MySQL for Data Analytics & BI (2024)  
-- Business Analysis Foundation (2024)  
-- NLP with Python (2024)  
-- Bloomberg Market Concept (2024)  
-
-
-## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/)  
-- 📧 Email: [abdullazahin31@gmail.com](mailto:abdullazahin31@gmail.com)  
+Sometimes I analyze systems.  
+Sometimes I optimize workflows.  
+Sometimes I write Python scripts because Excel started complaining.
 
 ---
 
+## 🧭 Things I'm Curious About
+
+⚙️ Engineering systems & infrastructure projects  
+🛢️ Asset integrity and coating inspection  
+📊 Data analytics & visualization  
+🧠 Process optimization and workflow design  
+🤖 Automation and technical problem solving
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
+
+### Data & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+![Abdulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulla-zahin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-zahin&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Highlights
+
+🔧 Reduced ERP data retrieval time **from 20 minutes to 5 seconds** through VBA automation.
+
+📈 Identified operational inefficiencies in **Nokia and Airbus analysis projects**, reducing bottlenecks by **20%**.
+
+🚗 Supported vendor relationships across major automotive manufacturers including  
+Toyota, Volkswagen, Suzuki, Mahindra, Bajaj, and TVS.
+
+---
+
+## 🎓 Education
+
+MSc Business Analytics — Northumbria University  
+BTech Mechanical Engineering
+
+---
+
+## 🏅 Certifications
+
+AMPP Certified Coating Inspector – Level 2  
+AMPP Certified Coating Inspector – Level 1  
+Certified Scrum Product Owner  
+Diploma in Business Ethics & Corporate Social Responsibility
+
+---
+
+## 🌍 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/abdulla-zahin-b4643315a
+
+📧 Email  
+abdullazahin31@gmail.com
