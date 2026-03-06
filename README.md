@@ -1,28 +1,32 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2C8BF7&center=true&vCenter=true&width=700&lines=Mechanical+Engineer;AMPP+Certified+Coating+Inspector+(Level+2);Engineering+%2B+Analytics+Enthusiast;Curious+about+systems%2C+data+and+technology" />
+</p>
+
 # Hey, I'm Abdulla 👋
 
-Mechanical Engineer ⚙️ | AMPP Certified Coating Inspector (Level 2) | Data & Systems Enthusiast
+Mechanical Engineer ⚙️ | **AMPP Certified Coating Inspector (Level 2)** | Data & Systems Enthusiast
 
-I enjoy exploring how **engineering systems, infrastructure projects, and data-driven insights** come together to solve real-world problems.
+I enjoy exploring how **engineering systems, infrastructure projects, and data-driven insights** intersect to solve real-world problems.
 
-My background spans **aviation maintenance, infrastructure project environments, business analytics, and process optimization**.
+My experience spans **aviation maintenance, infrastructure project environments, business analytics, and process optimization**.
 
 Sometimes I analyze systems.  
 Sometimes I optimize workflows.  
-Sometimes I write Python scripts because Excel started complaining.
+And sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-## 🧭 Things I'm Curious About
+# 🧭 What I'm Curious About
 
 ⚙️ Engineering systems & infrastructure projects  
 🛢️ Asset integrity and coating inspection  
-📊 Data analytics & visualization  
+📊 Data analytics and visualization  
 🧠 Process optimization and workflow design  
-🤖 Automation and technical problem solving
+🤖 Automation and technical problem solving  
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,15 +44,15 @@ Sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Abdulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulla-zahin&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulla-zahin&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-zahin&layout=compact&theme=tokyonight)
 
 ---
 
-## 🚀 Highlights
+# 🚀 Highlights
 
 🔧 Reduced ERP data retrieval time **from 20 minutes to 5 seconds** through VBA automation.
 
@@ -59,14 +63,16 @@ Toyota, Volkswagen, Suzuki, Mahindra, Bajaj, and TVS.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-MSc Business Analytics — Northumbria University  
-BTech Mechanical Engineering
+**MSc Business Analytics**  
+Northumbria University, United Kingdom
+
+**BTech Mechanical Engineering**
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
 AMPP Certified Coating Inspector – Level 2  
 AMPP Certified Coating Inspector – Level 1  
@@ -75,7 +81,7 @@ Diploma in Business Ethics & Corporate Social Responsibility
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 💼 LinkedIn  
 https://www.linkedin.com/in/abdulla-zahin-b4643315a
