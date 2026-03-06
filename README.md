@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2C8BF7&center=true&vCenter=true&width=700&lines=Mechanical+Engineer;AMPP+Certified+Coating+Inspector+(Level+2);Engineering+%2B+Analytics+Enthusiast;Curious+about+systems%2C+data+and+technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2C8BF7&center=true&vCenter=true&width=700&lines=Abdulla+Zahin;Mechanical+Engineer;AMPP+Certified+Coating+Inspector+(Level+2);Engineering+%2B+Analytics+Enthusiast;Curious+about+systems%2C+data+and+technology" />
 </p>
 
-# Hey, I'm Abdulla 👋
+# Welcome to my GitHub 👋
 
-Mechanical Engineer ⚙️ | **AMPP Certified Coating Inspector (Level 2)** | Data & Systems Enthusiast
+Mechanical Engineer ⚙️ | **AMPP Certified Coating Inspector (Level 2)**  
 
-I enjoy exploring how **engineering systems, infrastructure projects, and data-driven insights** intersect to solve real-world problems.
+I'm fascinated by how **engineering systems, infrastructure projects, and data-driven insights** come together to solve real-world problems.
 
-My experience spans **aviation maintenance, infrastructure project environments, business analytics, and process optimization**.
+My experience spans **aviation maintenance environments, infrastructure projects, business analytics, and process optimization**.
 
 Sometimes I analyze systems.  
 Sometimes I optimize workflows.  
@@ -16,7 +16,7 @@ And sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-# 🧭 What I'm Curious About
+## 🧭 What I'm Curious About
 
 ⚙️ Engineering systems & infrastructure projects  
 🛢️ Asset integrity and coating inspection  
@@ -26,7 +26,16 @@ And sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🧠 Currently Exploring
+
+• Engineering analytics for infrastructure projects  
+• Data-driven process optimization  
+• Automation with Python  
+• Applying analytics to engineering workflows  
+
+---
+
+## 🛠️ Tools & Technologies
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +53,7 @@ And sometimes I write Python scripts because Excel started complaining.
 
 ---
 
-# 🚀 Highlights
+## 🚀 Highlights
 
 🔧 Reduced ERP data retrieval time **from 20 minutes to 5 seconds** through VBA automation.
 
@@ -55,28 +64,28 @@ Toyota, Volkswagen, Suzuki, Mahindra, Bajaj, and TVS.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 **MSc Business Analytics**  
-Northumbria University, United Kingdom
+Northumbria University, United Kingdom  
 
 **BTech Mechanical Engineering**
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 AMPP Certified Coating Inspector – Level 2  
 AMPP Certified Coating Inspector – Level 1  
 Certified Scrum Product Owner  
-Business Ethics & Corporate Social Responsibility
+Diploma in Business Ethics & Corporate Social Responsibility  
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/abdulla-zahin-b4643315a
+www.linkedin.com/in/abdulla-zahin-b4643315a  
 
 📧 Email  
 abdullazahin31@gmail.com
