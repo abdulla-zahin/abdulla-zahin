@@ -8,7 +8,7 @@
 
 Dubai, UAE · Site Execution · MEP Coordination · Cost Intelligence · Automation
 
-[LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/) · [Portfolio](https://abdulla-zahin.github.io/) · [Email](mailto:abdullazahin31@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/) · [Email](mailto:abdullazahin31@gmail.com)
 
 </div>
 
@@ -146,6 +146,6 @@ Current areas of exploration include engineering document intelligence, BOQ auto
 
 ### Engineering first. Data where it helps. Automation where it matters.
 
-[GitHub](https://github.com/abdulla-zahin) · [LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/) · [Portfolio](https://abdulla-zahin.github.io/)
+[GitHub](https://github.com/abdulla-zahin) · [LinkedIn](https://www.linkedin.com/in/abdulla-zahin-b4643315a/)
 
 </div>
